@@ -1,0 +1,23 @@
+{
+  "name": "challengex",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Sp3eD",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "content-type": "^1.0.4",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2",
+    "sqlite3": "^5.0.2",
+    "url": "^0.11.0",
+    "ws": "^7.5.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
